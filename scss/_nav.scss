@@ -1,0 +1,28 @@
+.menu {
+    background-color: red;
+
+    ul {
+        list-style: none;
+
+        li {
+
+            display: inline-block;
+
+            a {
+                padding: 15px 50px;
+                display: block;
+                color: $color-letra;
+                text-decoration: none;
+                font-style: italic;
+                font-weight: bold;
+
+
+            }
+        }
+
+    }
+}
+
+a:hover {
+    background-color: rgb(13, 153, 163);
+}

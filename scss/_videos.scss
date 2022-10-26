@@ -1,0 +1,12 @@
+.videos {
+
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+
+    iframe {
+        width: 500px;
+        justify-content: space-around;
+    }
+
+}

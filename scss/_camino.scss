@@ -1,0 +1,23 @@
+// uso de variable
+
+h1 {
+    color: $color-letra2;
+
+}
+// uso de variable
+
+h4 {
+    color: $color-letra2;
+}
+
+.cuadro {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 85%;
+    padding: 10px;
+
+}
+.camino{ 
+    display: grid;
+    grid-template-columns: 50% 33% }

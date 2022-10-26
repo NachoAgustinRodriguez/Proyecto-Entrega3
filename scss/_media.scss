@@ -1,0 +1,19 @@
+@media (max-width:1500px) {
+
+    .videos {
+
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .videos iframe {
+        width: 600px;
+    }
+
+    .cuadro {
+
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
